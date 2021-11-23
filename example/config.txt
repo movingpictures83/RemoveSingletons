@@ -1,0 +1,2 @@
+Prefix plugins/RemoveSingletons/example
+Plugin RemoveSingletons inputfile abund.csv outputfile abund.nosingletons.csv
